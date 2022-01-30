@@ -376,8 +376,8 @@ country_event = {
 		NOR = {
 			has_country_flag = recent_xenophobic_comments
 			has_ethic = ethic_gestalt_consciousness
+			has_ethic = ethic_fanatic_xenophile
 		}
-		NOT = { has_ethic = ethic_fanatic_xenophile }
 		
 		exists = ruler
 		NOT = { ruler = { leader_of_faction = xenoist } }

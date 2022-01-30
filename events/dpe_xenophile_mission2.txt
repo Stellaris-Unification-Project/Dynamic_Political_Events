@@ -3540,8 +3540,6 @@ country_event = {
 					NOR = {
 						is_same_value = root
 						is_same_value = from
-					}
-					NOR = {
 						is_in_federation_with = FROM
 						has_defensive_pact = FROM
 						has_non_aggression_pact = from

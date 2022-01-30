@@ -865,10 +865,7 @@ country_event = {
 			factor = 1
 			modifier = {
 				factor = 0
-				NOR = {
-					has_ethic = ethic_xenophobe
-					has_ethic = ethic_fanatic_xenophobe
-				}
+				is_xenophobe = no
 			}
 		}
 	}
